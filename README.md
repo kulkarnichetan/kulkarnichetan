@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Chetan 👋
 
-<!--
-**kulkarnichetan/kulkarnichetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology undergraduate from Pune, India.
 
-Here are some ideas to get you started:
+- 🌱 Currently improving my DSA, backend development, and software development skills
+- 💻 Interested in building practical software and learning how systems work
+- 🤝 Open to collaborating on beginner-friendly and open-source projects
+- 📚 Always learning and improving one step at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Languages: C, C++, Python, Java (Basics)
+- Web: HTML, CSS, JavaScript
+- Database: SQL
+- Tools: Git, GitHub, VS Code
+
+## Connect
+
+- LinkedIn: *https://www.linkedin.com/in/chetankulkarni07/*
+- Email: *kulkarnichetann@gmail.com*
