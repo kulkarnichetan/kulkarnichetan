@@ -8,7 +8,6 @@ Information Technology Undergraduate • Pune, India
 
 ### About
 
-- 🌱 Currently improving my **DSA**, **Backend Development**, and **Software Development** skills.
 - 💻 Interested in building practical software and understanding how systems work.
 - 🤝 Open to collaborating on beginner-friendly and open-source projects.
 - 📚 Always learning and improving one step at a time.
